@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/Shijith"><img src="https://api.daily.dev/devcards/7b86d355595b45bda180ed35c5d29ede.png?r=ju1" width="400" alt="Shijith George's Dev Card"/></a>
+
 <!--
 
 **Here are some ideas to get you started:**
